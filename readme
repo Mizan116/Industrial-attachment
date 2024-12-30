@@ -1,0 +1,3 @@
+pip install numpy tensorflow pillow opencv-python streamlit (Don't run if all libray already installed. It will take time)
+streamlit run index.py
+
